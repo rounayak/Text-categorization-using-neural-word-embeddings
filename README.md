@@ -2,7 +2,7 @@
 This is a practical implementation implementing neural networks on top of  fasttext as well as word2vec word embeddings.
 The software setup is Python 3.6 and keras with theano backend.
 
-The entire concept is based a unsupervised learning approach.
+The entire concept is based on unsupervised learning approach.
 
 There are two different word embedding models used here :
 A. Word2Vec
