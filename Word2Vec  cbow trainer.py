@@ -27,7 +27,7 @@ iter(sentences)
 
 # In[40]:
 
-model = gensim.models.Word2Vec(sentences, size=300, window=5, min_count=3, workers=4)
+model = gensim.models.Word2Vec(sentences, size=300, window=5, min_count=3, workers=4,sg=0)
 
 
 # In[41]:
