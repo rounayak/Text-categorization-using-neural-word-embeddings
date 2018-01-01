@@ -1,5 +1,6 @@
 # Text-classification-on-word-embeddings
 This is a practical implementation implementing neural networks on top of  fasttext as well as word2vec word embeddings.
+The software setup is Python 3.6 and keras with theano backend.
 
 The entire concept is a unsupervised learning approach.
 
